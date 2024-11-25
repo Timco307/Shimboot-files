@@ -1,11 +1,12 @@
 I DID NOT MAKE THIS "ading2210" made shimboot
 
 ## Copyright:
-The contents of this repository are licensed under the GNU GPL v3.
+Shimboot is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt). Unless otherwise indicated, all code has been written by me, [ading2210](https://github.com/ading2210).
 
+### Copyright Notice:
 ```
-ading2210/shimboot-binaries: Scripts to build static binaries for Shimboot
-Copyright (C) 2024 ading2210
+ading2210/shimboot: Boot desktop Linux from a Chrome OS RMA shim.
+Copyright (C) 2023 ading2210
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
